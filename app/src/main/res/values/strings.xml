@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">percobaan5_Yulia_23246280</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Ahmad Dahlan</item>
+        <item>Ahmad Yani</item>
+        <item>Sutomo</item>
+        <item>Gatot Subroto</item>
+        <item>Ki Hadjar Dewantara</item>
+        <item>Mohammad Hatta</item>
+        <item>Soedirman</item>
+        <item>Soekarno</item>
+        <item>Soepomo</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Salah seorang ulama dan khatib terkemuka di Masjid Besar Kasultanan Yogyakarta.
+            K.H. Ahmad Dahlan adalah anak keempat dari tujuh bersaudara,putra dari K.H. Abu Bakar
+            bin Kiai Sulaiman dan Siti Aminah binti alm. K.H. Ibrahim. Ayahnya seorang khatib tetap
+            Masjid Agung Yogyakarta. Sedangkan istrinya adalah putri dari Penghulu Besar di Yogya.
+            K.H. Ahmad Dahlan lahir di Kauman, Yogyakarta, tahun 1869. Sebelum ia mendapat gelar
+            dan nama K.H. Ahmad Dahlan, nama yang diberikan orangtuanya adalah Muhammad Darwis.
+            Nama K.H. Ahmad Dahlan, ia peroleh dari para Kiai setelah menunaikan ibadah haji.</item>
+        <item>Ahmad Yani merupakan Menteri atau Panglima Angkatan Darat ke-6 (kini Kepala Staf TNI
+            Angkatan Darat atau KASAD) yang menjabat pada periode 23 Juni 1962 – 1 Oktober 1965.
+            Pangkat terakhirnya sebelum peristiwa G30S adalah Letnan Jenderal atau Letjen.</item>
+        <item>Bung Tomo dilahirkan di Kampung Blauran, Surabaya pada 3 Oktober 1920 dengan
+            nama Sutomo. Sutomo atau lebih dikenal dengan sapaan akrab rakyat sebagai Bung Tomo
+            merupakan seorang pahlawan yang dikenal karena peranannya dalam Pertempuran 10 November
+            1945. Saat itu, rakyat Surabaya berjuang melawan Belanda yang membonceng Netherlands
+            Indies Civil Administration (NICA).</item>
+        <item>Lahir di Banyumas, Jawa Tengah, 10 Oktober 1907 – meninggal di Jakarta, 11 Juni 1962
+            pada umur 54 tahun adalah tokoh perjuangan militer Indonesia dalam merebut kemerdekaan
+            dan juga pahlawan nasional Indonesia. Ia dimakamkan di Ungaran, kabupaten Semarang.
+            Pada tahun 1962, Soebroto dinobatkan sebagai Pahlawan Kemerdekaan Nasional menurut
+            SK Presiden RI No.222 tanggal 18 Juni 1962. Ia juga merupakan ayah angkat dari
+            Bob Hasan, seorang pengusaha ternama dan mantan menteri Indonesia pada era Soeharto.</item>
+        <item>Beliau lahir dengan nama asli Raden Mas Soewardi Soerjaningrat yang berasal dari
+            keluarga Keraton Yogyakarta. Meskipun berasal dari keluarga bangsawan, Ki Hajar
+            Dewantara tetap aktif dalam perjuangan kemerdekaan Indonesia. Ki Hajar Dewantara
+            dikenal sebagai seorang pendidik dari Perguruan Taman Siswa, sebuah organisasi pendidikan
+            pertama bagi pribumi untuk mendapatkan pendidikan formal. Atas jasa – jasanya, Ki Hajar
+            Dewantara dianggap sebagai sosok penting dalam dunia pendidikan Indonesia dan mendapatkan
+            gelar Bapak Pendidikan Indonesia.</item>
+        <item>Dr. (H.C.) Drs. Mohammad Hatta lahir di Bukittinggi, 12 Agustus 1902 dari pasangan
+            anak guru agama kenamaan dan anak pedagang sukses, H. Moh. Jamil dan Siti Saleha. Ia
+            merupakan anak kedua setelah Rafi'ah, kakak perempuannya yang lahir pada 1900.</item>
+        <item>Soedirman lahir di Purbalingga, Jawa Tengah pada tanggal 24 Januari 1916. Jenderal
+            Soedirman ialah salah seorang Pahlawan Revolusi Nasional Indonesia. Dalam sejarah
+            perjuangan Republik Indonesia, ia merupakan Panglima dan Jenderal RI yang pertama dan
+            termuda. Pada usia yang masih cukup muda, yaitu 31 tahun, Soedirman telah menjadi
+            seorang jenderal. </item>
+        <item>Soekarno adalah presiden pertama Republik Indonesia, sekaligus tokoh proklamator
+            negara ini. Soekarno akrab dipanggil dengan julukan Bung Karno. Bung Karno juga dikenal
+            sebagai Putra Sang Fajar karena lahir saat fajar menyingsing.  Bung Karno lahir di
+            Surabaya, 6 Juni 1901 dan meninggal di Jakarta, 21 Juni 1970. Dikutip dari laman RRI,
+            Soekarno awalnya diberi nama Koesno Sosrodihardjo. Karena sering sakit, namanya diganti
+            menjadi Soekarno.</item>
+        <item>Soepomo adalah putra pertama dari 12 bersaudara. Ia terlahir dari Raden Ayu
+            R.Wignjodipuro dan Raden Tumenggung S. Wignjodipuro. Sebagai putra keluarga priyayi,
+            Soepomo mendapatkan kesempatan meneruskan pendidikannya di Europeesche Lagere School
+            (ELS) di Boyolali (1917), MULO (Meer Uitgebreid Lagere Onderwijs) di Solo pada tahun
+            1920. Soepomo sendiri merupakan pahlawan nasional dikenal sebagai arsitek Undang-Undang
+            Dasar (UUD) 1945 bersama Muhammad Yamin dan Sukarno.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/ahmad_dahlan</item>
+        <item>@drawable/ahmad_yani</item>
+        <item>@drawable/bung_tomo</item>
+        <item>@drawable/gatot_subroto</item>
+        <item>@drawable/ki_hadjar_dewantara</item>
+        <item>@drawable/mohammad_hatta</item>
+        <item>@drawable/sudirman</item>
+        <item>@drawable/sukarno</item>
+        <item>@drawable/supomo</item>
+    </integer-array>
+</resources>
